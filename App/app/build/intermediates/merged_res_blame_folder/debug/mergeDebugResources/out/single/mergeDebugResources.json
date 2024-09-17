@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_iconeditperfil.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\iconeditperfil.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_iconoeditcontrasena.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\iconoeditcontrasena.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_ejemploeventoimg.jpg.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\ejemploeventoimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_nav_iconoconciertos.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\nav_iconoconciertos.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_iconoejlugares.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\iconoejlugares.png"
+    },
+    {
+        "merged": "com.dom.laboratorio5.app-debug-50:/drawable_nav_iconoconciertos.png.flat",
+        "source": "com.dom.laboratorio5.app-main-52:/drawable/nav_iconoconciertos.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_iconofavorito.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\iconofavorito.png"
+    },
+    {
+        "merged": "com.dom.laboratorio5.app-debug-50:/drawable_nav_iconoperfil.png.flat",
+        "source": "com.dom.laboratorio5.app-main-52:/drawable/nav_iconoperfil.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_iconoperfilej.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\iconoperfilej.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_icononotis.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\icononotis.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_conciertoej.jpg.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\conciertoej.jpg"
+    },
+    {
+        "merged": "com.dom.laboratorio5.app-debug-50:/drawable_nav_iconolugares.png.flat",
+        "source": "com.dom.laboratorio5.app-main-52:/drawable/nav_iconolugares.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_nav_iconoperfil.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\nav_iconoperfil.png"
+    },
+    {
+        "merged": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-debug-50:\\drawable_nav_iconolugares.png.flat",
+        "source": "C:\\Users\\domin\\.gradle\\daemon\\8.7\\com.dom.laboratorio5.app-main-52:\\drawable\\nav_iconolugares.png"
+    }
+]
