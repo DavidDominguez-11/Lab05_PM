@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Laboratorio5</string>
-    <string name="title_activity_conciertos">ConciertosActivity</string>
-    <string name="title_activity_listado_lugares">ListadoLugares</string>
-    <string name="title_activity_detalle">Detalle</string>
-    <string name="title_activity_perfil">Perfil</string>
-</resources>
