@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dom.laboratorio5"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="31"
+9        android:targetSdkVersion="34" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+12        android:name="com.dom.laboratorio5.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.dom.laboratorio5.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:5:5-51:19
+18        android:allowBackup="true"
+18-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.13.1] C:\Users\domin\.gradle\caches\transforms-4\586e550422b6e33dbfd0b575c8ba5703\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:8:9-54
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:9:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:11:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.Laboratorio5" >
+29-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:13:9-50
+30        <activity
+30-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:15:9-19:57
+31            android:name="com.dom.laboratorio5.NavGraph"
+31-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:16:13-37
+32            android:exported="false"
+32-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:17:13-37
+33            android:label="@string/title_activity_nav_graph"
+33-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:18:13-61
+34            android:theme="@style/Theme.Laboratorio5" />
+34-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:19:13-54
+35        <activity
+35-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:20:9-24:57
+36            android:name="com.dom.laboratorio5.Perfil"
+36-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:21:13-35
+37            android:exported="false"
+37-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:22:13-37
+38            android:label="@string/title_activity_perfil"
+38-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:23:13-58
+39            android:theme="@style/Theme.Laboratorio5" />
+39-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:24:13-54
+40        <activity
+40-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:25:9-29:57
+41            android:name="com.dom.laboratorio5.Detalle"
+41-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:26:13-36
+42            android:exported="false"
+42-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:27:13-37
+43            android:label="@string/title_activity_detalle"
+43-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:28:13-59
+44            android:theme="@style/Theme.Laboratorio5" />
+44-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:29:13-54
+45        <activity
+45-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:30:9-34:57
+46            android:name="com.dom.laboratorio5.ListadoLugares"
+46-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:31:13-43
+47            android:exported="false"
+47-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:32:13-37
+48            android:label="@string/title_activity_listado_lugares"
+48-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:33:13-67
+49            android:theme="@style/Theme.Laboratorio5" />
+49-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:34:13-54
+50        <activity
+50-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:35:9-39:57
+51            android:name="com.dom.laboratorio5.ConciertosActivity"
+51-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:36:13-47
+52            android:exported="true"
+52-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:37:13-36
+53            android:label="@string/title_activity_conciertos"
+53-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:38:13-62
+54            android:theme="@style/Theme.Laboratorio5" />
+54-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:39:13-54
+55        <activity
+55-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:40:9-50:20
+56            android:name="com.dom.laboratorio5.MainActivity"
+56-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:41:13-41
+57            android:exported="true"
+57-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:42:13-36
+58            android:label="@string/app_name"
+58-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:43:13-45
+59            android:theme="@style/Theme.Laboratorio5" >
+59-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:44:13-54
+60            <intent-filter>
+60-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:45:13-49:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:46:17-69
+61-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:46:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:48:17-77
+63-->C:\Users\domin\OneDrive\Documentos\UVG\2024\S2\Movil\Lab05\App\app\src\main\AndroidManifest.xml:48:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\28e4d403a46d619d7fd6a62fbe31ca37\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+67            android:name="androidx.compose.ui.tooling.PreviewActivity"
+67-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\28e4d403a46d619d7fd6a62fbe31ca37\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+68            android:exported="true" />
+68-->[androidx.compose.ui:ui-tooling-android:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\28e4d403a46d619d7fd6a62fbe31ca37\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+69
+70        <provider
+70-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+71            android:name="androidx.startup.InitializationProvider"
+71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+72            android:authorities="com.dom.laboratorio5.androidx-startup"
+72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+73            android:exported="false" >
+73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+74            <meta-data
+74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+75                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+76                android:value="androidx.startup" />
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\domin\.gradle\caches\transforms-4\3dca813e3fad7ce44ada8d01a64b5d1f\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+77            <meta-data
+77-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\domin\.gradle\caches\transforms-4\ff20babe824c10a5f0c8705b070b1148\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+78-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\domin\.gradle\caches\transforms-4\ff20babe824c10a5f0c8705b070b1148\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+79                android:value="androidx.startup" />
+79-->[androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\domin\.gradle\caches\transforms-4\ff20babe824c10a5f0c8705b070b1148\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+82                android:value="androidx.startup" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+83        </provider>
+84
+85        <activity
+85-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\789707c705ece09cd0fd38b268bf28d2\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:23:9-25:39
+86            android:name="androidx.activity.ComponentActivity"
+86-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\789707c705ece09cd0fd38b268bf28d2\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:24:13-63
+87            android:exported="true" />
+87-->[androidx.compose.ui:ui-test-manifest:1.6.6] C:\Users\domin\.gradle\caches\transforms-4\789707c705ece09cd0fd38b268bf28d2\transformed\ui-test-manifest-1.6.6\AndroidManifest.xml:25:13-36
+88
+89        <receiver
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+90            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+91            android:directBootAware="false"
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+92            android:enabled="true"
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+93            android:exported="true"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+94            android:permission="android.permission.DUMP" >
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+96                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+97            </intent-filter>
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+99                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+102                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+105                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\domin\.gradle\caches\transforms-4\f777c8cd3c4986f4091ad8486f1dea5e\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+106            </intent-filter>
+107        </receiver>
+108    </application>
+109
+110</manifest>
